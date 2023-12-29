@@ -1,0 +1,25 @@
+﻿div.result_row {
+    margin: 0.2em;
+}
+
+div.result_value {
+    display: inline-block;
+    border: solid 1px;
+    min-width: 16em;
+    min-height: 1lh;
+    margin: 0 0.5em;
+    vertical-align: middle
+}
+
+div.result_ng {
+    background-color: LightPink
+}
+
+span.result_ng {
+    color: red;
+    font-weight: bold
+}
+
+span.country_flag {
+    vertical-align: middle;
+}
